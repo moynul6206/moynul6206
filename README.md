@@ -11,9 +11,9 @@ Hey there! I'm Md Moynul Islam, a passionate web developer and cybersecurity exp
 ## Let's Connect
 I'm always open to collaboration and sharing knowledge with like-minded individuals. Feel free to reach out to me through the following channels:
 
-- GitHub: [https://github.com/moynul6206](link)
-- LinkedIn: [https://www.linkedin.com/in/itmoynul/](link)
-- Facebook: [https://www.facebook.com/cyberking.moynul/](link)
+- GitHub: https://github.com/moynul6206
+- LinkedIn: https://www.linkedin.com/in/itmoynul/
+- Facebook: https://www.facebook.com/cyberking.moynul/
 - Email: itmoynul@gmail.com
 
 Let's make the digital world a safer and more exciting place together!
