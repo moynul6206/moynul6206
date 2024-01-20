@@ -1,4 +1,4 @@
-![logo](https://github.com/moynul6206/MDMOYNULISLAM/blob/main/mygitbanncer.png)
+![logo](https://github.com/moynul6206/moynul6206/blob/main/mygitbanncer.png)
 <h1 align="center">Hi 👋, I'm Md Moynul Islam</h1>
 <h3 align="center">A passionate Web Developer and Cyber Security Expert from Bangladesh</h3>
 
